@@ -13,7 +13,7 @@ public class ParaAyırma {
     System.out.println("girilen miktar: " + para + "TL");
     System.out.println("--------------------------------");
     System.out.println("lira kısmı: " + lira + " TL");
-    System.out.println("kuruş kısmı: " + kurus + " Kuruş");//burdada onları güzel gözükcek bir şekilde yazdırdım
+    System.out.println("kuruş kısmı: " + kurus + " Kuruş");//burdada onları güzel gözükcek bir şekilde yazdırdımmmmmmmmm
     }
 
 }
